@@ -176,7 +176,8 @@
 								&#x3d; 0.32). By comparison, two independent cytoplasmic HITS-CLIP
 								tags showed higher R<sup>2</sup> values (0.765; data not shown).
 									(<b>B</b>) BC4 clusters were grouped according to each gene, and
-								CLIP tags <mml:math>
+							 	CLIP tags <!-- commented out math ml. Present to demonstrate how it would appear if required -
+							 		<mml:math>
 									<mml:mrow>
 										<mml:mo>(</mml:mo>
 										<mml:msubsup>
@@ -188,7 +189,7 @@
 										</mml:msubsup>
 										<mml:mo>)</mml:mo>
 									</mml:mrow>
-								</mml:math> from these clusters were summed up gene-by-gene for each
+								</mml:math> --> from these clusters were summed up gene-by-gene for each
 								individual experiment, to obtain the total number of BC4 tags for
 								each gene. The first plot (Cyt total vs Nuc total) shows the
 								correlation (R<sup>2</sup> &#x3d; 0.36) between the total number of
@@ -210,7 +211,8 @@
 								BC4 clusters were grouped according to each gene, and CLIP tags from
 								these clusters were summed up gene-by-gene for each individual
 								experiment, to obtain the total number of BC4 tags for each gene.
-								The first plot (Cyt total vs Nuc total) shows the <mml:math>
+								The first plot (Cyt total vs Nuc total) shows the 
+								<!-- commented out math ml. Present to demonstrate how it would appear if required -<mml:math>
 									<mml:mrow>
 										<mml:mo>(</mml:mo>
 										<mml:msubsup>
@@ -222,7 +224,8 @@
 										</mml:msubsup>
 										<mml:mo>)</mml:mo>
 									</mml:mrow>
-								</mml:math> correlation (R<sup>2</sup> &#x3d; 0.36) between the
+								</mml:math> -->
+									correlation (R<sup>2</sup> &#x3d; 0.36) between the
 								total number of nuclear CLIP tags per gene and the total number of
 								cytoplasmic tags per gene; each point represents a gene. The other
 								two plots are similar but the correlations were calculated using two
