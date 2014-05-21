@@ -50,6 +50,7 @@
 					<person_name contributor_role="author" sequence="additional">
 						<given_name>Kenneth</given_name>
 						<surname>Lay</surname>
+						<ORCID authenticated="true">http://orcid.org/0000-0000-0000-0000</ORCID>
 					</person_name>
 					<person_name contributor_role="author" sequence="additional">
 						<given_name>John</given_name>
