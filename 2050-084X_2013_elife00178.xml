@@ -112,6 +112,14 @@
 				<doi_data>
 					<doi>10.7554/eLife.00178</doi>
 					<resource>http://elifesciences.org/lookup/doi/10.7554/eLife.00178</resource>
+					<collection property="text-mining">
+					<item>
+						<resource content_version="vor">http://elifesciences.org/content/3/e00133</resource>
+					</item>
+					<item>
+						<resource content_version="am">http://elifesciences.org/content/early/2014/05/02/eLife.00133</resource>
+					</item>
+				</collection>
 				</doi_data>
 				<citation_list>
                     <citation key="1">
