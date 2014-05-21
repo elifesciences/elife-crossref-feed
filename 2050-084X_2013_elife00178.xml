@@ -121,9 +121,8 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 1.</b>
-								<b>NOVA proteins up/down-regulate transcript levels.</b> (<b>A</b>)
+							<title>Figure 1. NOVA proteins up/down-regulate transcript levels.</title>
+							<subtitle>(<b>A</b>)
 								Affymetrix exon arrays were interrogated with RNA from WT vs DKO
 								E18.5 mouse whole brains, and normalized transcript intensities were
 								plotted in log<sub>2</sub> scale (log<sub>2</sub>(WT/DKO) &#x3e; 0.3
@@ -159,7 +158,7 @@
 								up-regulated RNAs. Each point on the X-axis represents a
 								Nova-dependent gene (in arbitrary order) and Y-axis represents the
 								percentage of intronic/3&#x2032; UTR tags for transcripts with total
-								tags &#x3e;5.</title>
+								tags &#x3e;5.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -169,9 +168,8 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 1&#x2014;figure supplement 1.</b>
-								<b>Nova CLIP results.</b> Nuclear (Nuc, blue; upper) and cytoplasmic
+							<title>Figure 1&#x2014;figure supplement 1.</title>
+								<subtitle>Nova CLIP results. Nuclear (Nuc, blue; upper) and cytoplasmic
 								(Cyt, red; lower) HITS-CLIP tags are shown. All unique tags from
 								nuclear and cytoplasmic HITS-CLIP clusters were plotted onto the
 								whole genome and showed a relatively low correlation (R<sup>2</sup>
@@ -197,7 +195,7 @@
 								nuclear CLIP tags per gene and the total number of cytoplasmic tags
 								per gene; each point represents a gene. The other two plots are
 								similar but the correlations were calculated using two Nuc CLIP
-								experiments or two Cyt CLIP experiments.</title>
+								experiments or two Cyt CLIP experiments.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -207,9 +205,8 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 1&#x2014;figure supplement 2.</b>
-								<b>Correlations: analysis of Nova CLIP results.</b> NOVA HITS-CLIP
+							<title>Figure 1&#x2014;figure supplement 2.</title>
+								<subtitle>Correlations: analysis of Nova CLIP results. NOVA HITS-CLIP
 								BC4 clusters were grouped according to each gene, and CLIP tags from
 								these clusters were summed up gene-by-gene for each individual
 								experiment, to obtain the total number of BC4 tags for each gene.
@@ -229,7 +226,7 @@
 								total number of nuclear CLIP tags per gene and the total number of
 								cytoplasmic tags per gene; each point represents a gene. The other
 								two plots are similar but the correlations were calculated using two
-								Nuc CLIP experiments or two Cyt CLIP experiments. </title>
+								Nuc CLIP experiments or two Cyt CLIP experiments. </subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -239,8 +236,7 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Table 1.</b> Validation data for transcripts showing
+							<title>Table 1. Validation data for transcripts showing
 								Nova-dependent changes in steady-state mRNA levels</title>
 						</titles>
 						<format mime_type="text/plain"/>
@@ -251,8 +247,7 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Table 2.</b> Summary of CLIP tag mapping data</title>
+							<title>Table 2. Summary of CLIP tag mapping data</title>
 						</titles>
 						<format mime_type="text/plain"/>
 						<doi_data>
@@ -262,10 +257,9 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 2.</b>
-								<b>NOVA regulates the expression of <i>Dlg3</i> mRNA and
-									protein.</b> (<b>A</b>) Location of NOVA cytoplasmic and nuclear
+							<title>Figure 2. NOVA regulates the expression of <i>Dlg3</i> mRNA and
+									protein.</title>
+							<subtitle>(<b>A</b>) Location of NOVA cytoplasmic and nuclear
 								CLIP tags in chromosome X:96591589-99424482. Red and purple colors
 								represent cytoplasmic CLIP tags and green and blue colors represent
 								nuclear CLIP tags. The location of <i>Dlg3</i> is boxed in black and
@@ -297,7 +291,7 @@
 								neuronal cultures. DAPI and neurofilament stained all neuronal
 								nuclei and processes, respectively, while NOVA staining
 								differentiates WT and DKO neurons. The DLG3 signal was markedly
-								reduced in DKO neurons. Scale bar: 10 &#xb5;m.</title>
+								reduced in DKO neurons. Scale bar: 10 &#xb5;m.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -307,16 +301,13 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 2&#x2014;figure supplement 1.</b>
-								<b>
-									<i>Dlg3</i> mRNA isoforms in Nova KO brain.</b> Northern blot
-								analysis of <i>Dlg3</i> mRNA in WT and <i>Nova</i> DKO brain.
-									(<b>A</b>) <i>Gapdh</i> probe was used as a normalizing control.
+							<title>Figure 2&#x2014;figure supplement 1. <i>Dlg3</i> mRNA isoforms in Nova KO brain.
+								Northern blot analysis of <i>Dlg3</i> mRNA in WT and <i>Nova</i> DKO brain.</title>
+									<subtitle>(<b>A</b>) <i>Gapdh</i> probe was used as a normalizing control.
 								Panel to right: Quantitation of relative RNA intensity (WT/DKO) was
 								plotted as a relative ratio of <i>Dlg3</i> mRNA/GAPDH in WT/DKO;
 								error bars represent standard deviation (p&#x3c;0.05). About 75% was
-								reduced in DKO.</title>
+								reduced in DKO.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -326,13 +317,12 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 2&#x2014;figure supplement 2.</b>
-								<b>Northern blot analysis of <i>Dlg3</i> mRNA in Nova KO
-									brain-reproducibility and control.</b> Reproduction of Northern
+							<title>Figure 2&#x2014;figure supplement 2. Northern blot analysis of <i>Dlg3</i> mRNA in Nova KO
+									brain-reproducibility and control.</title>
+							<subtitle>Reproduction of Northern
 								blot for <i>Dlg3</i> mRNA presented in Figure 2B, but also showing
 								loading control below (Ethidium bromide (EtBr) stain of the gel),
-								demonstrating equal loading of all RNAs.</title>
+								demonstrating equal loading of all RNAs.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -342,11 +332,9 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 3.</b>
-								<b>
-									<i>Dlg3</i> mRNA is decreased through inclusion of cryptic NMD
-									exons in the absence of NOVA.</b> (<b>A</b>) RT-PCR and sequence
+							<title>Figure 3. <i>Dlg3</i> mRNA is decreased through inclusion of cryptic NMD
+									exons in the absence of NOVA.</title>
+							<subtitle>(<b>A</b>) RT-PCR and sequence
 								analysis (Figure 3&#x2014;source data 1) showed four <i>Dlg3</i>
 								isoforms which have different combinations of alternatively spliced
 								exons. The lower two PCR products (WT1 and WT2), respectively,
@@ -374,7 +362,7 @@
 								Quantitation of DLG3 signal in Upf1 positive and Upf1 knockdown
 								cells in (<b>C</b>). Signal intensity was normalized to the signal
 								in Upf1 positive cells. Error bar represents standard deviation
-								(p&#x3c;0.05).</title>
+								(p&#x3c;0.05).</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -384,8 +372,7 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 3&#x2014;source data 1.</b> Sequence of RT-PCR products
+							<title>Figure 3&#x2014;source data 1. Sequence of RT-PCR products
 								(from Figures 3 and 5).</title>
 						</titles>
 						<format mime_type="application/msword"/>
@@ -396,13 +383,11 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 3&#x2014;figure supplement 1.</b>
-								<b>Reporter construct design for NOVA 3&#x2032; UTR actions.</b>
-								Schematic of a reporter encoding destabilized d1EGFP and the
+							<title>Figure 3&#x2014;figure supplement 1. Reporter construct design for NOVA 3&#x2032; UTR actions.</title>
+								<subtitle>Schematic of a reporter encoding destabilized d1EGFP and the
 								3&#x2032; UTR YCAY element of NOVA&#x27;s target RNA. An identical
 								construct in which the YCAY sequences were mutated to YAAY was also
-								made.</title>
+								made.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -412,10 +397,9 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 3&#x2014;figure supplement 2.</b>
-								<b>NOVA increases the stability of some RNAs through binding to
-									3&#x2032; UTR YCAY elements.</b> qRT-PCR was used to quantitate
+							<title>Figure 3&#x2014;figure supplement 2. NOVA increases the stability of some RNAs through binding to
+									3&#x2032; UTR YCAY elements. </title>
+							<subtitle>qRT-PCR was used to quantitate
 								d1EGFP mRNA after transfection of various constructs (Syngr3
 								[synaptogyrin 3], Glrb [Glycine receptor b], <i>Dlg3</i> and Syt2
 								[Synaptotagmin 2]). Quantitation of steady state changes in RNA
@@ -426,7 +410,7 @@
 								show any change, while a longer construct (214 nt) did, even though
 								both harbored the YCAY element, suggesting that additional elements
 								or RNA structures may be important for binding of NOVA to this
-								3&#x2032; UTR YCAY element. Asterisks indicate p&#x3c;0.05.</title>
+								3&#x2032; UTR YCAY element. Asterisks indicate p&#x3c;0.05.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -436,10 +420,9 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 4.</b>
-								<b>NOVA and NMD-mediated regulation of <i>Scn9a</i> mRNA and
-									protein.</b> (<b>A</b>) Immunoblot analysis of SCN9a in WT vs
+							<title>Figure 4. NOVA and NMD-mediated regulation of <i>Scn9a</i> mRNA and
+									protein.</title> 
+							<subtitle>(<b>A</b>) Immunoblot analysis of SCN9a in WT vs
 								DKO. Proteins extracts from WT (lane 1&#x2013;3) vs DKO (lane
 								4&#x2013;6) were loaded. &#x3b3;-Tubulin was used as a normalizing
 								control. (<b>B</b>) Quantitation of relative protein intensity
@@ -462,7 +445,7 @@
 								or a non-targeting siRNA were transfected in WT mouse primary cells,
 								and RT-PCR was performed with the same primers used in Figures 4C,E.
 								The intensity of the NMD exon was increased specifically after
-									<i>Upf1</i> siRNA treatment.</title>
+									<i>Upf1</i> siRNA treatment.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -472,15 +455,14 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 4&#x2014;figure supplement 1.</b>
-								<b>N2A cells: Upf1 siRNA efficiently reduces endogenous UPF1 protein
-									levels.</b> siRNA targeting <i>Upf1</i> was transfected into N2a
+							<title>Figure 4&#x2014;figure supplement 1.2A cells: Upf1 siRNA efficiently reduces endogenous UPF1 protein
+									levels.</title>
+							<subtitle>siRNA targeting <i>Upf1</i> was transfected into N2a
 								cells and immunoblot analysis of UPF1 protein was performed. Results
 								from two independent experiments are shown. siRNA to <i>Upf1</i>
 								showed the significant reduction of UPF1 protein expression compared
 								with a control untargeting siRNA. &#x3b3;-Tubulin was used as a
-								normalization control.</title>
+								normalization control.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -490,13 +472,12 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 4&#x2014;figure supplement 2.</b>
-								<b>Primary neurons: Upf1 siRNA reduces endogenous UPF1 protein
-									levels.</b> qRT-PCR quantitation of relative <i>Upf1</i> mRNA
+							<title>Figure 4&#x2014;figure supplement 2. Primary neurons: Upf1 siRNA reduces endogenous UPF1 protein
+									levels.</title>
+							<subtitle>qRT-PCR quantitation of relative <i>Upf1</i> mRNA
 								levels in primary neurons with or without treatment with <i>Upf1</i>
 								siRNA. Error bars represents standard error of the mean; n &#x3d;
-								3.</title>
+								3.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -506,10 +487,8 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 5.</b>
-								<b>NOVA regulates cryptic NMD exons and transcript levels.</b>
-									(<b>A</b>) Analysis of alternative spliced isoforms in
+							<title>Figure 5. NOVA regulates cryptic NMD exons and transcript levels.</title>
+									<subtitle>(<b>A</b>) Analysis of alternative spliced isoforms in
 								transcripts chosen solely on exon array data showing NOVA-dependent
 								steady-state mRNA changes and robust HITS-CLIP clusters in introns.
 								Transcripts were then screened for the presence of cryptic NMD exons
@@ -540,7 +519,7 @@
 								increase in the respective proteins in Nova DKO neurons (Figures 2
 								and 3 or Figure 4, respectively). Three independent experiments were
 								performed and error bars represent standard deviation
-								(p&#x3c;0.05).</title>
+								(p&#x3c;0.05).</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -550,9 +529,7 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 5&#x2014;figure supplement 1.</b>
-								<b>Diagrams of each of the NMD exons shown in Figure 5A</b> The
+							<title>Figure 5&#x2014;figure supplement 1. Diagrams of each of the NMD exons shown in Figure 5A The
 								position of the exon harboring a premature termination codon is
 								labeled in red (PTC).</title>
 						</titles>
@@ -564,10 +541,9 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 5&#x2014;figure supplement 2.</b>
-								<b>NOVA regulates the expression of Stx2 (Syntaxin 2) mRNA and
-									protein.</b> (<b>A</b>) RT-PCR from WT and DKO brain showed
+							<title>Figure 5&#x2014;figure supplement 2. NOVA regulates the expression of Stx2 (Syntaxin 2) mRNA and
+									protein.</title>
+							<subtitle>(<b>A</b>) RT-PCR from WT and DKO brain showed
 								NOVA-dependent alternative splicing of a previously unknown, higher
 								molecular weight isoform of <i>Stx2</i>. A (&#x2212;) RT negative
 								control is shown. (<b>B</b>) Immunoblot analysis of STX2 protein in
@@ -587,7 +563,7 @@
 									siRNA<i>,</i> and which shows a baseline signal of STX2 protein.
 								The two thicker arrows indicate cells which had a good red signal
 								(siRNA to <i>Upf1</i>) and stronger green signals (indicating
-								increased STX2 protein). Scale bar: 10 &#xb5;m.</title>
+								increased STX2 protein). Scale bar: 10 &#xb5;m.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -597,10 +573,8 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 6.</b>
-								<b>Seizure-induced inhibition of NOVA-regulated NMD exons.</b>
-									(<b>A</b>) Mice were treated with pilocarpine (pilo) to induce
+							<title>Figure 6. Seizure-induced inhibition of NOVA-regulated NMD exons.</title>
+									<subtitle>(<b>A</b>) Mice were treated with pilocarpine (pilo) to induce
 								seizures or were mock-treated (sham). 2 hr later brains were
 								harvested and splicing of NMD exons assayed by RT-PCR. (<b>B</b>)
 								Quantitation of experiments described in (<b>A</b>), from three
@@ -615,7 +589,7 @@
 								seizure discharge. Bilateral left and right frontal, temporal,
 								parietal (<b>C</b>, <b>D</b>) and occipital (<b>E</b>) leads are
 								shown. Time calibration 1 s (<b>C</b>, <b>D</b>), 2 s
-								(<b>E</b>).</title>
+								(<b>E</b>).</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -625,10 +599,9 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 6&#x2014;figure supplement 1.</b>
-								<b>Comparison of different sets of transcripts regulated by
-									NOVA.</b> The number of transcripts in which NOVA regulates
+							<title>Figure 6&#x2014;figure supplement 1. Comparison of different sets of transcripts regulated by
+									NOVA.</title>
+									<subtitle>The number of transcripts in which NOVA regulates
 								alternative splicing without changing steady-state mRNA levels are
 								shown in blue, and in purple transcripts showing Nova-dependent
 								changes in steady-state mRNA levels (e.g. through NMD or transcript
@@ -637,7 +610,7 @@
 								Licatalosi et al., 2008; Zhang et al., 2010), and compared with the
 								211 transcripts identified here by exon array. The datasets are
 								largely mutually exclusive, with only 18 transcripts in
-								common.</title>
+								common.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -659,10 +632,9 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 7.</b>
-								<b>NOVA subcellular localization after pilocarpine-induced status
-									epilepticus.</b> (<b>A</b>) NOVA and MAP2 protein localization
+							<title>Figure 7.NOVA subcellular localization after pilocarpine-induced status
+									epilepticus.</title>
+							<subtitle>(<b>A</b>) NOVA and MAP2 protein localization
 								were visualized by immunofluorescence (IF) in mouse brain sections
 								from pilocarpine treated (pilo) or control animals (sham). Regions
 								include CA1 and dentate gyrus (DG) from hippocampal area, cortex
@@ -674,7 +646,7 @@
 								neurons. Nuc/Cyt ratios (sham divided by pilocarpine signal) were
 								obtained from 22 cells in two sham animals and 23 cells in four
 								pilocarpine animals at the 4 hr time point. Scale bar 20
-								&#x3bc;m.</title>
+								&#x3bc;m.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -684,10 +656,9 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 8.</b>
-								<b>NOVA regulates the expression of synaptogyrin III (Syngr3) mRNA
-									and protein.</b> (<b>A</b>) Location of cytoplasmic and nuclear
+							<title>Figure 8.NOVA regulates the expression of synaptogyrin III (Syngr3) mRNA
+									and protein.</title>
+							<subtitle>(<b>A</b>) Location of cytoplasmic and nuclear
 								CLIP for <i>Syngr3</i>. Red and purple colors represent Cytoplasmic
 								CLIP tags and green and blue tags represent nuclear CLIP tags. All
 								tags were located in 3&#x2032; UTR. (<b>B</b>) qRT-PCR data of
@@ -707,7 +678,7 @@
 								intensity (WT/DKO). The results were plotted as relative ratio of
 								SYNGR3 in WT/DKO; error bars represent standard deviation
 								(p&#x3c;0.05); SYNGR3 protein was reduced &#x223c;35% in DKO
-								brain.</title>
+								brain.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -717,8 +688,7 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Table 4.</b> GO analysis</title>
+							<title>Table 4. GO analysis</title>
 						</titles>
 						<format mime_type="text/plain"/>
 						<doi_data>
@@ -728,11 +698,10 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Figure 9.</b>
-								<b>Model linking electrical activity with Nova-dependent splicing of
+							<title>Figure 9. Model linking electrical activity with Nova-dependent splicing of
 									cryptic NMD exons to maintain the balance of synaptic
-									proteins.</b> In WT brain, NOVA represses some cryptic NMD
+									proteins.</title>
+								<subtitle>In WT brain, NOVA represses some cryptic NMD
 								isoforms (small red diamonds on left) while promoting others (large
 								red pentagons on right), thereby maintaining the balance of protein
 								levels. To a lesser degree, NOVA also stabilizes transcripts through
@@ -743,7 +712,7 @@
 									<i>Dlg3</i> (Figures 2 and 3) and sodium channel <i>Scn9a</i>
 								(Figure 4) proteins, which are implicated in familial epileptic
 								disorders and are dynamically regulated after seizures in mice
-								(Figure 6).</title>
+								(Figure 6).</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -753,10 +722,9 @@
 					</component>
 					<component parent_relation="isReferencedBy">
 						<titles>
-							<title>
-								<b>Supplementary file 1.</b>
-								<b>List of validated targets that were alternatively spliced after
-									pilocarpine induced status epilepticus.</b> Targets were grouped
+							<title>Supplementary file 1.List of validated targets that were alternatively spliced after
+									pilocarpine induced status epilepticus.</title>
+							<subtitle>Targets were grouped
 								according to their biological process and molecular function.
 								Calculated delta I (&#x0394;I) was listed for both the hippocampus
 								(Hp) and cortex (Ctx) at 4 hr and 24 hr time points. &#x0394;I from
@@ -769,7 +737,7 @@
 								splice sites; MUTX: mutually exclusive exons; IRET: retained intron;
 								APA3: alternative polyA usage coupled with 3&#x2032; splice site
 								selection; ALTP: alternative promoter; TACA: tandem cassette
-								exons.</title>
+								exons.</subtitle>
 						</titles>
 						<format mime_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
 						<doi_data>
@@ -779,8 +747,7 @@
 					</component>
 					<component parent_relation="isReferencedBy">
 						<titles>
-							<title>
-								<b>Supplementary file 2.</b> PCR primers used in this work. All PCR
+							<title>Supplementary file 2. PCR primers used in this work. All PCR
 								primers are shown, oriented 5&#x2032; to 3&#x2032;.</title>
 						</titles>
 						<format mime_type="application/msword"/>
