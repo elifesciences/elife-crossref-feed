@@ -8,7 +8,7 @@
 		<doi_batch_id>elife00178</doi_batch_id>
 		<timestamp>201301221800</timestamp>
 		<depositor>
-			<name>eLife</name>
+			<name>TNQ</name>
 			<email_address>editorial@elifesciences.org</email_address>
 		</depositor>
 		<registrant>eLife</registrant>
@@ -168,8 +168,8 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>Figure 1&#x2014;figure supplement 1.</title>
-								<subtitle>Nova CLIP results. Nuclear (Nuc, blue; upper) and cytoplasmic
+							<title>Figure 1&#x2014;figure supplement 1. Nova CLIP results.</title>
+							 <subtitle>Nuclear (Nuc, blue; upper) and cytoplasmic
 								(Cyt, red; lower) HITS-CLIP tags are shown. All unique tags from
 								nuclear and cytoplasmic HITS-CLIP clusters were plotted onto the
 								whole genome and showed a relatively low correlation (R<sup>2</sup>
@@ -195,7 +195,7 @@
 								nuclear CLIP tags per gene and the total number of cytoplasmic tags
 								per gene; each point represents a gene. The other two plots are
 								similar but the correlations were calculated using two Nuc CLIP
-								experiments or two Cyt CLIP experiments.</subtitle>
+								experiments or two Cyt CLIP experiments.
 						</titles>
 						<format mime_type="image/tiff"/>
 						<doi_data>
@@ -205,8 +205,8 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>Figure 1&#x2014;figure supplement 2.</title>
-								<subtitle>Correlations: analysis of Nova CLIP results. NOVA HITS-CLIP
+							<title>Figure 1&#x2014;figure supplement 2. Correlations: analysis of Nova CLIP results.</title>
+								<subtitle> NOVA HITS-CLIP
 								BC4 clusters were grouped according to each gene, and CLIP tags from
 								these clusters were summed up gene-by-gene for each individual
 								experiment, to obtain the total number of BC4 tags for each gene.
