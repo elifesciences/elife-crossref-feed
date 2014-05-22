@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="4.3.2" xmlns="http://www.crossref.org/schema/4.3.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:fr="http://www.crossref.org/fundref.xsd"
+	xsi:schemaLocation="http://www.crossref.org/schema/4.3.2 http://www.crossref.org/schemas/crossref4.3.2.xsd"
+	xmlns:mml="http://www.w3.org/1998/Math/MathML">
+		<doi_batch_id>elife01856</doi_batch_id>
+		<timestamp>201401011100</timestamp>
+		<depositor>
+			<name>eLife</name>
+			<email_address>production@elifesciences.org</email_address>
+		</depositor>
+		<registrant>eLife</registrant>
+	</head>
+	<body>
+		<journal>
+			<journal_metadata language="en">
+			<journal_metadata>
+				<full_title>eLife</full_title>
+				<issn media_type="electronic">2050-084X</issn>
+			</journal_metadata>
+			<journal_issue>
+				<publication_date media_type="online">
+					<month>01</month>
+					<day>01</day>
+					<year>2014</year>
+				</publication_date>
+				<journal_volume>
+					<volume>3</volume>
+				</journal_volume>
+			</journal_issue>
+			<journal_article publication_type="full_text">
+				<titles>
+					<title>p97-dependent retrotranslocation and proteolytic processing govern formation of active Nrf1 upon proteasome inhibition</title>
+				</titles>
+				<contributors>
+					<person_name contributor_role="author" sequence="first">
+						<given_name>Taesun</given_name>
+						<surname>Eom</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Chaolin</given_name>
+						<surname>Zhang</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Huidong</given_name>
+						<surname>Wang</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Kenneth</given_name>
+						<surname>Lay</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>John</given_name>
+						<surname>Fak</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Jeffrey L</given_name>
+						<surname>Noebels</surname>
+					</person_name>
+					<person_name contributor_role="author" sequence="additional">
+						<given_name>Robert B</given_name>
+						<surname>Darnell</surname>
+					</person_name>
+				</contributors><publication_date media_type="online">
+					<month>01</month>
+					<day>01</day>
+					<year>2014</year>
+				</publication_date>
+				<publisher_item>
+					<identifier id_type="doi">10.7554/eLife.01856</identifier>
+				</publisher_item>
+				<doi_data>
+					<doi>10.7554/eLife.01856</doi>
+					<resource>http://elifesciences.org/content/early/2014/01/01/eLife.01856</resource>
+					<crossmark>
+						<crossmark_version>1</crossmark_version>
+						<crossmark_policy>XXXXXXXX</crossmark_policy>
+						<crossmark_domains>
+							<crossmark_domain>
+								<domain>elifesciences.org</domain>
+							</crossmark_domain>
+						</crossmark_domains>
+						<crossmark_domain_exclusive>true</crossmark_domain_exclusive>
+					</crossmark>
+					<archive_locations>
+						<archive name="CLOCKSS"/>
+					</archive_locations>
+					<doi_data>
+						<doi>10.7554/eLife.01856</doi>
+						<resource>http://elifesciences.org/lookup/doi/10.7554/eLife.01856</resource>
+						<collection property="text-mining">
+							<item>
+								<resource content_version="am">http://elifesciences.org/content/early/2014/01/01/eLife.01856</resource>
+							</item>
+						</collection>
+				</doi_data>
+			</journal_article>
+		</journal>
+	</body>
+</doi_batch>
