@@ -81,7 +81,7 @@
 								<domain>elifesciences.org</domain>
 							</crossmark_domain>
 						</crossmark_domains>
-						<crossmark_domain_exclusive>true</crossmark_domain_exclusive>
+						<crossmark_domain_exclusive>false</crossmark_domain_exclusive>
 					</crossmark>
 					<archive_locations>
 						<archive name="CLOCKSS"/>
