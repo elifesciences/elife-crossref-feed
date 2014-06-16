@@ -82,7 +82,7 @@
 							<domain>elifesciences.org</domain>
 						</crossmark_domain>
 					</crossmark_domains>
-					<crossmark_domain_exclusive>true</crossmark_domain_exclusive>
+					<crossmark_domain_exclusive>false</crossmark_domain_exclusive>
 					<custom_metadata>
 						<assertion name="received" label="Received" group_name="publication_history" group_label="Publication History" order="0">2012-08-22</assertion>
 						<assertion name="accepted" label="Accepted" group_name="publication_history" group_label="Publication History" order="1">2012-11-29</assertion>
