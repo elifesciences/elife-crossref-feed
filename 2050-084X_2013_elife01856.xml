@@ -89,11 +89,6 @@
 					<doi_data>
 						<doi>10.7554/eLife.01856</doi>
 						<resource>http://elifesciences.org/lookup/doi/10.7554/eLife.01856</resource>
-						<collection property="text-mining">
-							<item>
-								<resource content_version="am">http://elifesciences.org/content/early/2014/01/01/eLife.01856</resource>
-							</item>
-						</collection>
 				</doi_data>
 			</journal_article>
 		</journal>
