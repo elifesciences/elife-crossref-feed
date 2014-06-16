@@ -100,11 +100,11 @@
 						</fr:program>
 						<ai:program name="AccessIndicators">
 							<ai:license_ref applies_to="vor" start_date="2014-05-02"
-								>http://elifesciences.org/licenses/license_v1.html</ai:license_ref>
+								>http://creativecommons.org/licenses/by/3.0/</ai:license_ref>
 							<ai:license_ref applies_to="am"
-								>http://elifesciences.org/licenses/open_license_v1.html</ai:license_ref>
+								>http://creativecommons.org/licenses/by/3.0/</ai:license_ref>
 							<ai:license_ref applies_to="tdm" start_date="2014-12-02"
-								>http://elifesciences.org/licenses/tdm_license_v1.html</ai:license_ref>
+								>http://creativecommons.org/licenses/by/3.0/</ai:license_ref>
 						</ai:program>
 					</custom_metadata>
 				</crossmark>
