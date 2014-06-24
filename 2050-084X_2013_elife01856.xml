@@ -71,19 +71,7 @@
 				<publisher_item>
 					<identifier id_type="doi">10.7554/eLife.01856</identifier>
 				</publisher_item>
-					<crossmark>
-						<crossmark_version>1</crossmark_version>
-						<crossmark_policy>10.7554/eLife/crossmark_policy</crossmark_policy>
-						<crossmark_domains>
-							<crossmark_domain>
-								<domain>elifesciences.org</domain>
-							</crossmark_domain>
-						</crossmark_domains>
-						<crossmark_domain_exclusive>false</crossmark_domain_exclusive>
-					</crossmark>
-					<archive_locations>
 						<archive name="CLOCKSS"/>
-					</archive_locations>
 					<doi_data>
 						<doi>10.7554/eLife.01856</doi>
 						<resource>http://elifesciences.org/lookup/doi/10.7554/eLife.01856</resource>
