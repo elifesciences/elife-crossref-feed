@@ -74,6 +74,12 @@
 					<identifier id_type="doi">10.7554/eLife.00178</identifier>
 				</publisher_item>
 				<crossmark>
+					<crossmark_version>1</crossmark_version>
+					<crossmark_policy>eLifesciences</crossmark_policy>
+					<crossmark_domains>
+						<crossmark_domain><domain>www.elifesciences.org</domain></crossmark_domain>
+					</crossmark_domains>
+					<crossmark_domain_exclusive>false</crossmark_domain_exclusive>
 					<custom_metadata>
 						<assertion name="received" label="Received" group_name="publication_history" group_label="Publication History" order="0">2012-08-22</assertion>
 						<assertion name="accepted" label="Accepted" group_name="publication_history" group_label="Publication History" order="1">2012-11-29</assertion>
