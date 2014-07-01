@@ -2,6 +2,7 @@
 <doi_batch version="4.3.2" xmlns="http://www.crossref.org/schema/4.3.2"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:fr="http://www.crossref.org/fundref.xsd"
+	xmlns:ai="http://www.crossref.org/AccessIndicators.xsd"
 	xsi:schemaLocation="http://www.crossref.org/schema/4.3.2 http://www.crossref.org/schemas/crossref4.3.2.xsd"
 	xmlns:mml="http://www.w3.org/1998/Math/MathML">
 	<head>
@@ -95,6 +96,11 @@
 										>http://dx.doi.org/10.13039/501100000854</fr:assertion></fr:assertion>
 							</fr:assertion>
 						</fr:program>
+						<ai:program name="AccessIndicators">
+							<ai:license_ref applies_to="vor">http://creativecommons.org/licenses/by/3.0/</ai:license_ref>
+							<ai:license_ref applies_to="am">http://creativecommons.org/licenses/by/3.0/</ai:license_ref>
+							<ai:license_ref applies_to="tdm" >http://creativecommons.org/licenses/by/3.0/</ai:license_ref>
+						</ai:program>
 					</custom_metadata>
 				</crossmark>
 				<doi_data>
