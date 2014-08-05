@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <doi_batch version="4.3.2" xmlns="http://www.crossref.org/schema/4.3.2"
+	xmlns:ai="http://www.crossref.org/AccessIndicators.xsd"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:fr="http://www.crossref.org/fundref.xsd"
 	xsi:schemaLocation="http://www.crossref.org/schema/4.3.2 http://www.crossref.org/schemas/crossref4.3.2.xsd"
 	xmlns:mml="http://www.w3.org/1998/Math/MathML">
 		<head>
-			<doi_batch_id>elife01856</doi_batch_id>
-		<timestamp>201401011100</timestamp>
+			<doi_batch_id>elife-2014-01-01-110000-PoA</doi_batch_id>
+		<timestamp>1388574000</timestamp>
 		<depositor>
 			<name>eLife</name>
 			<email_address>production@elifesciences.org</email_address>
@@ -70,6 +71,21 @@
 				<publisher_item>
 					<identifier id_type="doi">10.7554/eLife.01856</identifier>
 				</publisher_item>
+				<crossmark>
+					<crossmark_version>1</crossmark_version>
+					<crossmark_policy>10.7554/eLife/crossmark_policy</crossmark_policy>
+					<crossmark_domains>
+						<crossmark_domain>
+							<domain>www.elifesciences.org</domain>
+						</crossmark_domain>
+					</crossmark_domains>
+					<crossmark_domain_exclusive>false</crossmark_domain_exclusive>
+					<custom_metadata>
+						<ai:program name="AccessIndicators">
+							<ai:license_ref applies_to="am">http://creativecommons.org/licenses/by/4.0/</ai:license_ref>
+						</ai:program>
+					</custom_metadata>
+				</crossmark>
 					<doi_data>
 						<doi>10.7554/eLife.01856</doi>
 						<resource>http://elifesciences.org/lookup/doi/10.7554/eLife.01856</resource>
