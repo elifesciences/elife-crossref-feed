@@ -71,22 +71,7 @@
 				<publisher_item>
 					<identifier id_type="doi">10.7554/eLife.01856</identifier>
 				</publisher_item>
-				<crossmark>
-					<crossmark_version>1</crossmark_version>
-					<crossmark_policy>10.7554/eLife/crossmark_policy</crossmark_policy>
-					<crossmark_domains>
-						<crossmark_domain>
-							<domain>www.elifesciences.org</domain>
-						</crossmark_domain>
-					</crossmark_domains>
-					<crossmark_domain_exclusive>false</crossmark_domain_exclusive>
-					<custom_metadata>
-						<ai:program name="AccessIndicators">
-							<ai:license_ref applies_to="am">http://creativecommons.org/licenses/by/4.0/</ai:license_ref>
-						</ai:program>
-					</custom_metadata>
-				</crossmark>
-					<doi_data>
+				<doi_data>
 						<doi>10.7554/eLife.01856</doi>
 						<resource>http://elifesciences.org/lookup/doi/10.7554/eLife.01856</resource>
 				</doi_data>
