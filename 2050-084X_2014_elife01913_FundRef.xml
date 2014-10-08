@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch version="4.3.2" xmlns="http://www.crossref.org/doi_resources_schema/4.3.2"
+    xmlns:fr="http://www.crossref.org/fundref.xsd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.crossref.org/doi_resources_schema/4.3.2 http://www.crossref.org/schemas/doi_resources4.3.2.xsd">
+    <head>
+        <doi_batch_id>elife20140930VoR</doi_batch_id>
+        <depositor>
+            <name>TNQ</name>
+            <email_address>production@elifesciences.org</email_address>
+        </depositor>
+    </head>
+    <body>
+        <fundref_data>
+            <doi>10.7554/eLife.01913</doi>
+            <fr:program name="fundref">
+                <fr:assertion name="fundgroup"><fr:assertion name="funder_name">Howard Hughes
+                        Medical Institute<fr:assertion name="funder_identifier"
+                            >http://dx.doi.org/10.13039/100000011</fr:assertion></fr:assertion></fr:assertion>
+                <fr:assertion name="fundgroup"><fr:assertion name="funder_name">National Institutes
+                        of Health<fr:assertion name="funder_identifier"
+                            >http://dx.doi.org/10.13039/100000002</fr:assertion></fr:assertion><fr:assertion
+                        name="award_number">DK083531</fr:assertion></fr:assertion>
+                <fr:assertion name="fundgroup"><fr:assertion name="funder_name">National Institutes
+                        of Health<fr:assertion name="funder_identifier"
+                            >http://dx.doi.org/10.13039/100000002</fr:assertion></fr:assertion><fr:assertion
+                        name="award_number">DK041096</fr:assertion></fr:assertion>
+                <fr:assertion name="fundgroup"><fr:assertion name="funder_name">JPB
+                            Foundation<fr:assertion name="funder_identifier"
+                            >http://dx.doi.org/10.13039/100007457</fr:assertion></fr:assertion></fr:assertion>
+            </fr:program>
+        </fundref_data>
+    </body>
+</doi_batch>
