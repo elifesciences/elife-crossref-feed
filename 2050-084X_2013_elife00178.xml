@@ -74,35 +74,6 @@
 				<publisher_item>
 					<identifier id_type="doi">10.7554/eLife.00178</identifier>
 				</publisher_item>
-				<crossmark>
-					<crossmark_version>1</crossmark_version>
-					<crossmark_policy>eLifesciences</crossmark_policy>
-					<crossmark_domains>
-						<crossmark_domain><domain>www.elifesciences.org</domain></crossmark_domain>
-					</crossmark_domains>
-					<crossmark_domain_exclusive>false</crossmark_domain_exclusive>
-					<custom_metadata>
-						<assertion name="received" label="Received" group_name="publication_history" group_label="Publication History" order="0">2012-08-22</assertion>
-						<assertion name="accepted" label="Accepted" group_name="publication_history" group_label="Publication History" order="1">2012-11-29</assertion>
-						<assertion name="published" label="Published" group_name="publication_history" group_label="Publication History" order="2">2013-01-22</assertion><fr:program name="fundref">
-							<fr:assertion name="fundgroup">
-								<fr:assertion name="funder_name">Howard Hughes Medical
-									Institute<fr:assertion name="funder_identifier"
-										>http://dx.doi.org/10.13039/100000011</fr:assertion></fr:assertion>
-							</fr:assertion>
-							<fr:assertion name="fundgroup">
-								<fr:assertion name="funder_name">Human Frontier Science
-									Program<fr:assertion name="funder_identifier"
-										>http://dx.doi.org/10.13039/501100000854</fr:assertion></fr:assertion>
-							</fr:assertion>
-						</fr:program>
-						<ai:program name="AccessIndicators">
-							<ai:license_ref applies_to="vor">http://creativecommons.org/licenses/by/3.0/</ai:license_ref>
-							<ai:license_ref applies_to="am">http://creativecommons.org/licenses/by/3.0/</ai:license_ref>
-							<ai:license_ref applies_to="tdm" >http://creativecommons.org/licenses/by/3.0/</ai:license_ref>
-						</ai:program>
-					</custom_metadata>
-				</crossmark>
 				<doi_data>
 					<doi>10.7554/eLife.00178</doi>
 					<resource>http://elifesciences.org/lookup/doi/10.7554/eLife.00178</resource>
