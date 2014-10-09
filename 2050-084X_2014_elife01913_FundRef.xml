@@ -30,5 +30,16 @@
                             >http://dx.doi.org/10.13039/100007457</fr:assertion></fr:assertion></fr:assertion>
             </fr:program>
         </fundref_data>
+        <lic_ref_data>
+            <doi>10.7554/eLife.01913</doi>
+            <ai:program name="AccessIndicators">
+                <ai:license_ref applies_to="vor"
+                    >http://creativecommons.org/licenses/by/4.0/</ai:license_ref>
+                <ai:license_ref applies_to="am"
+                    >http://creativecommons.org/licenses/by/4.0/</ai:license_ref>
+                <ai:license_ref applies_to="tdm"
+                    >http://creativecommons.org/licenses/by/4.0/</ai:license_ref>
+            </ai:program>
+        </lic_ref_data>
     </body>
 </doi_batch>
