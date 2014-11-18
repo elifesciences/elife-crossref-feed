@@ -114,7 +114,18 @@
 				</archive_locations>
 				<doi_data>
 					<doi>10.7554/eLife.00178</doi>
-					<resource>http://elifesciences.org/lookup/doi/10.7554/eLife.00178</resource>
+					<resource>INSERT LOOK UP FOR VOR PDF</resource>
+					<collection property="text-mining">
+						<item>
+							<resource content_version="vor" mime_type="application/pdf">INSERT LOOK UP FOR VOR PDF</resource>
+						</item>
+						<item>
+							<resource content_version="am">INSERT URL FOR POA VERSION PDF</resource>
+						</item>
+						<item>
+							<resource content_version="tdm" mime_type="xml">INSERT XML LOCATION</resource>
+						</item>
+					</collection>
 				</doi_data>
 				<citation_list>
                     <citation key="1">
