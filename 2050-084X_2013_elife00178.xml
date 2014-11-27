@@ -122,9 +122,6 @@
 						<item>
 							<resource content_version="am">http://elifesciences.org/lookup/doi/10.7554/eLife.00178</resource>
 						</item>
-						<item>
-							<resource content_version="tdm" mime_type="xml">http://elifesciences.org/lookup/doi/10.7554/eLife.00178</resource>
-						</item>
 					</collection>
 				</doi_data>
 				<citation_list>
