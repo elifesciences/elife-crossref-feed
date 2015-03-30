@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<doi_batch version="4.3.4" 
-	xmlns="http://www.crossref.org/schema/4.3.4"
+<doi_batch version="4.3.5" 
+	xmlns="http://www.crossref.org/schema/4.3.5"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:ai="http://www.crossref.org/AccessIndicators.xsd"
 	xmlns:fr="http://www.crossref.org/fundref.xsd"
-	xsi:schemaLocation="http://www.crossref.org/schema/4.3.4 
-						http://www.crossref.org/schema/deposit/crossref4.3.4.xsd">
+	xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+	xsi:schemaLocation="http://www.crossref.org/schema/4.3.5 
+	http://www.crossref.org/schema/deposit/crossref4.3.5.xsd">
 	<head>
 		<doi_batch_id>elife20140718VoR</doi_batch_id>
 		<timestamp>201301221800</timestamp>
