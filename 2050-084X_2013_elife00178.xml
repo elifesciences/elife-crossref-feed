@@ -664,6 +664,10 @@
 								tags &#x3e;5.</subtitle>
 						</titles>
 						<format mime_type="image/tiff"/>
+						<ai:program>
+							<ai:license_ref>© 1977 Thieme Medical Publishers. All Rights Reserved. Figure 1, lower panel, is reproduced from Hughes and Sperandio, 2008 with permission.</ai:license_ref>
+							<ai:license_ref>© 2007 Elsevier Masson SAS. All rights reserved. The patient figure in Figure 6, part A is reproduced from Koropatnick et al., 2004, European Journal of Medical Genetics with permission.</ai:license_ref>
+							</ai:program>
 						<doi_data>
 							<doi>10.7554/eLife.00178.003</doi>
 							<resource>http://elifesciences.org/lookup/doi/10.7554/eLife.00178.003</resource>
