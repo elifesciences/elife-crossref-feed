@@ -600,9 +600,7 @@
 				<component_list>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>Abstract</b>
-							</title>
+							<title>Abstract</title>
 						</titles>
 						<format mime_type="text/plain"/>
 						<doi_data>
@@ -612,9 +610,7 @@
 					</component>
 					<component parent_relation="isPartOf">
 						<titles>
-							<title>
-								<b>eLife digest</b>
-							</title>
+							<title>eLife digest</title>
 						</titles>
 						<format mime_type="text/plain"/>
 						<doi_data>
