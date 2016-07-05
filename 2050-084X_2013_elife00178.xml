@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<doi_batch version="4.3.5" 
-	xmlns="http://www.crossref.org/schema/4.3.5"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7"
 	xmlns:ai="http://www.crossref.org/AccessIndicators.xsd"
-	xmlns:fr="http://www.crossref.org/fundref.xsd"
-	xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
-	xsi:schemaLocation="http://www.crossref.org/schema/4.3.5 
-	http://www.crossref.org/schema/deposit/crossref4.3.5.xsd">
+	xmlns:fr="http://www.crossref.org/fundref.xsd" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
 	<head>
 		<doi_batch_id>elife20140718VoR</doi_batch_id>
 		<timestamp>201301221800</timestamp>
@@ -155,7 +153,7 @@
 						<ai:license_ref applies_to="vor">http://creativecommons.org/licenses/by/4.0/</ai:license_ref>
 						<ai:license_ref applies_to="am">http://creativecommons.org/licenses/by/4.0/</ai:license_ref>
 						<ai:license_ref applies_to="tdm">http://creativecommons.org/licenses/by/4.0/</ai:license_ref>
-					</ai:program>
+					</ai:program
 				<archive_locations>
 					<archive name="CLOCKSS"/>
 				</archive_locations>
