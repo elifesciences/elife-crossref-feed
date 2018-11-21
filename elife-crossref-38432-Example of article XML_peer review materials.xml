@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doi_batch version="4.4.1" xmlns="http://www.crossref.org/schema/4.4.1"
+    xmlns:ai="http://www.crossref.org/AccessIndicators.xsd"
+    xmlns:ct="http://www.crossref.org/clinicaltrials.xsd"
+    xmlns:fr="http://www.crossref.org/fundref.xsd" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:rel="http://www.crossref.org/relations.xsd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.crossref.org/schema/4.4.1 http://www.crossref.org/schemas/crossref4.4.1.xsd">
+       <head>
+        <doi_batch_id>elife-crossref-38432-20181120160009</doi_batch_id>
+        <timestamp>20181120160009</timestamp>
+        <depositor>
+            <depositor_name>eLife</depositor_name>
+            <email_address>production@elifesciences.org</email_address>
+        </depositor>
+        <registrant>eLife</registrant>
+    </head>
+    <body>
+        <journal>
+            <journal_metadata language="en">
+                <full_title>eLife</full_title>
+                <issn media_type="electronic">2050-084X</issn>
+            </journal_metadata>
+            <journal_issue>
+                <publication_date media_type="online">
+                    <month>11</month>
+                    <day>06</day>
+                    <year>2018</year>
+                </publication_date>
+                <journal_volume>
+                    <volume>7</volume>
+                </journal_volume>
+            </journal_issue>
+            <journal_article publication_type="full_text" reference_distribution_opts="any">
+                <titles>
+                    <title>Immune-mediated hookworm clearance and survival of a marine mammal
+                        decrease with warmer ocean temperatures</title>
+                </titles>
+                <contributors>
+                    <person_name contributor_role="author" sequence="first">
+                        <given_name>Mauricio</given_name>
+                        <surname>Seguel</surname>
+                        <affiliation>Department of Pathology, College of Veterinary Medicine, University of Georgia, Athens, United States</affiliation>
+                        <ORCID authenticated="true">http://orcid.org/0000-0002-0465-236X</ORCID>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Felipe</given_name>
+                        <surname>Montalva</surname>
+                        <affiliation>Facultad de Ciencias Biologicas, Pontificia Universidad Catolica de Chile, Santiago, Chile</affiliation>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Diego</given_name>
+                        <surname>Perez-Venegas</surname>
+                        <affiliation>PhD Program in Conservation Medicine, Facultad de Ecología y Recursos Naturales, Universidad Andrés Bello, Santiago, Chile</affiliation>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Josefina</given_name>
+                        <surname>Gutiérrez</surname>
+                        <affiliation>Programa de Investigación Aplicada en Fauna Silvestre, Facultad de Ciencias Veterinarias, Universidad Austral de Chile, Valdivia, Chile</affiliation>
+                        <affiliation>Facultad de Ciencias Veterinarias, Instituto de Patología Animal, Universidad Austral de Chile, Valdivia, Chile</affiliation>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Hector J</given_name>
+                        <surname>Paves</surname>
+                        <affiliation>Departamento de Ciencias Básicas, Universidad Santo Tomas, Osorno, Chile</affiliation>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Ananda</given_name>
+                        <surname>Müller</surname>
+                        <affiliation>Instituto de Ciencias Clínicas Veterinarias, Universidad Austral de Chile, Valdivia, Chile</affiliation>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Carola</given_name>
+                        <surname>Valencia-Soto</surname>
+                        <affiliation>Programa de Investigación Aplicada en Fauna Silvestre, Facultad de Ciencias Veterinarias, Universidad Austral de Chile, Valdivia, Chile</affiliation>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Elizabeth</given_name>
+                        <surname>Howerth</surname>
+                        <affiliation>Department of Pathology, College of Veterinary Medicine, University of Georgia, Athens, United States</affiliation>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Victoria</given_name>
+                        <surname>Mendiola</surname>
+                        <affiliation>Department of Pathology, College of Veterinary Medicine, University of Georgia, Athens, United States</affiliation>
+                    </person_name>
+                    <person_name contributor_role="author" sequence="additional">
+                        <given_name>Nicole</given_name>
+                        <surname>Gottdenker</surname>
+                        <affiliation>Department of Pathology, College of Veterinary Medicine, University of Georgia, Athens, United States</affiliation>
+                    </person_name>
+                </contributors>
+                <jats:abstract>
+                    <jats:p>Increases in ocean temperature are associated with changes in the
+                        distribution of fish stocks, and the foraging regimes and maternal
+                        attendance patterns of marine mammals. However, it is not well understood
+                        how these changes affect offspring health and survival. The maternal
+                        attendance patterns and immunity of South American fur seals were assessed
+                        in a rookery where hookworm disease is the main cause of pup mortality. Pups
+                        receiving higher levels of maternal attendance had a positive energy balance
+                        and a more reactive immune system. These pups were able to expel hookworms
+                        through a specific immune mediated mechanism and survived the infection.
+                        Maternal attendance was higher in years with low sea surface temperature,
+                        therefore, the mean hookworm burden and mortality increased with sea surface
+                        temperature over a 10-year period. We provide a mechanistic explanation
+                        regarding how changes in ocean temperature and maternal care affect
+                        infectious diseases dynamics in a marine mammal.</jats:p>
+                </jats:abstract>
+                <jats:abstract abstract-type="executive-summary">
+                    <jats:p>Every year off the coasts of Chile, Guafo Island becomes a nursery for
+                        South American fur seals pups. Mother fur seals leave their young on the
+                        beaches, going out at sea to hunt for fish before returning to the shore to
+                        nurse. These first few months are dangerous for young seals, with many dying
+                        because of hookworms, parasites that latch to the wall of the bowels to suck
+                        blood. However, the immune system of the pups is usually able to mount a
+                        response and fight off these parasites.</jats:p>
+                    <jats:p>Even though the pups stay on land, their lives depend on the health of
+                        the ocean that feeds their nursing mothers. In recent years, sea temperature
+                        has been rising rapidly, which modifies winds and water currents. This can
+                        set off a chain of events that results in fewer fish being available for
+                        seals and other marine mammals to eat. Researchers know that years with
+                        warmer waters are associated with changes in the pattern of the mothers’
+                        hunting trips, more pups’ deaths, and a weaker immune system in young fur
+                        seals. However, the mechanisms that connect these different factors are
+                        still unclear.</jats:p>
+                    <jats:p>To explore this, Seguel et al. followed South American fur seals
+                        colonies on Guafo Island for several years, tracking the mothers’ trips and
+                        monitoring the health of the pups by looking at their levels of blood sugar,
+                        whether they carry hookworms, and certain elements of their immune system.
+                        Results showed that in years when the sea is warmer, fur seal mothers are
+                        gone hunting for longer: they spend less time nursing their young, which
+                        then grow slower. These young seals also have lower levels of blood sugar,
+                        and so they have less energy to create the immune response necessary to
+                        clear off parasitic worms. In fact, in years with warmer seas, almost half
+                        of the pups die from hookworm infections.</jats:p>
+                    <jats:p>The work by Seguel et al. shows that warmer oceans directly weaken the
+                        immune defenses of certain marine mammals. If temperatures keep rising,
+                        infectious diseases may kill more of these animals. Further work is now
+                        needed to explore if strategies could be developed to help seal populations,
+                        for example by treating the pups with drugs that eliminate the
+                        parasites.</jats:p>
+                </jats:abstract>
+                <publication_date media_type="online">
+                    <month>11</month>
+                    <day>06</day>
+                    <year>2018</year>
+                </publication_date>
+                <publisher_item>
+                    <item_number item_number_type="article_number">e38432</item_number>
+                    <identifier id_type="doi">10.7554/eLife.38432</identifier>
+                </publisher_item>
+                <fr:program name="fundref">
+                    <fr:assertion name="fundgroup"><fr:assertion name="funder_name">Morris Animal
+                                Foundation<fr:assertion name="funder_identifier"
+                                >http://dx.doi.org/10.13039/100001250</fr:assertion></fr:assertion><fr:assertion
+                            name="award_number">D16ZO-413</fr:assertion></fr:assertion>
+                    <fr:assertion name="fundgroup"><fr:assertion name="funder_name">Society for
+                            Marine Mammalogy<fr:assertion name="funder_identifier"
+                                >http://dx.doi.org/10.13039/100007143</fr:assertion></fr:assertion><fr:assertion
+                            name="award_number">Small grants in aid</fr:assertion></fr:assertion>
+                    <fr:assertion name="fundgroup"><fr:assertion name="funder_name">Rufford
+                                Foundation<fr:assertion name="funder_identifier"
+                                >http://dx.doi.org/10.13039/100007463</fr:assertion></fr:assertion><fr:assertion
+                            name="award_number">N 18815–1</fr:assertion></fr:assertion>
+                </fr:program>
+                <ai:program name="AccessIndicators">
+                    <ai:license_ref applies_to="vor"
+                        >http://creativecommons.org/licenses/by/4.0/</ai:license_ref>
+                    <ai:license_ref applies_to="am"
+                        >http://creativecommons.org/licenses/by/4.0/</ai:license_ref>
+                    <ai:license_ref applies_to="tdm"
+                        >http://creativecommons.org/licenses/by/4.0/</ai:license_ref>
+                </ai:program>
+                <!-- Add following tags and text. For decision letter add boiler plate "Decision letter:" followed by the text of the article title. For  Author response add boiler plate "Author response:" followed by article title. For inter_work_relation use the component DOI name we give to decision letter and author response, but they have to be added from this document as components as they are no longer component DOIs but are primary DOIs now-->
+                <program xmlns="http://www.crossref.org/relations.xsd">
+                    <related_item>
+                        <description>Decision letter: Immune mediated hookworm clearance and survival of a marine mammal 
+                            decreases with warmer ocean temperatures</description>
+                        <inter_work_relation relationship-type="isReviewOf"     identifier-type="doi">10.7554/eLife.38432.034</inter_work_relation>
+                    </related_item>
+                    <related_item>
+                        <description>Author response: Immune mediated hookworm clearance and survival of a marine mammal 
+                            decreases with warmer ocean temperatures</description>
+                        <inter_work_relation relationship-type="isReviewOf" identifier-type="doi"
+                            >10.7554/eLife.38432.035</inter_work_relation>
+                    </related_item>
+                </program>
+                <archive_locations>
+                    <archive name="CLOCKSS"/>
+                </archive_locations>
+                <doi_data>
+                    <doi>10.7554/eLife.38432</doi>
+                    <resource>https://elifesciences.org/articles/38432</resource>
+                    <collection property="text-mining">
+                        <item>
+                            <resource mime_type="application/pdf"
+                                >https://cdn.elifesciences.org/articles/38432/elife-38432-v2.pdf</resource>
+                        </item>
+                        <item>
+                            <resource mime_type="application/xml"
+                                >https://cdn.elifesciences.org/articles/38432/elife-38432-v2.xml</resource>
+                        </item>
+                    </collection>
+                </doi_data>
+                <citation_list>
+                    <citation key="bib1">
+                        <journal_title>Canadian Journal of Zoology</journal_title>
+                        <author>Arnould</author>
+                        <volume>79</volume>
+                        <first_page>35</first_page>
+                        <cYear>2001</cYear>
+                        <article_title>Dive behaviour, foraging locations, and maternal-attendance patterns of Australian fur seals ( Arctocephalus pusillus doriferus )</article_title>
+                        <doi>10.1139/z00-178</doi>
+                    </citation>
+                    <citation key="bib2">
+                        <journal_title>Comparative Biochemistry and Physiology Part A: Molecular &amp; Integrative Physiology</journal_title>
+                        <author>Arnould</author>
+                        <volume>129</volume>
+                        <first_page>829</first_page>
+                        <cYear>2001</cYear>
+                        <article_title>Fasting metabolism in Antarctic fur seal (Arctocephalus gazella) pups</article_title>
+                        <doi>10.1016/S1095-6433(01)00339-7</doi>
+                    </citation>
+                    <citation key="bib3">
+                        <journal_title>Plos One</journal_title>
+                        <author>Banuet-Martínez</author>
+                        <volume>12</volume>
+                        <cYear>2017</cYear>
+                        <article_title>Climatic anomaly affects the immune competence of California sea lions</article_title>
+                        <doi>10.1371/journal.pone.0179359</doi>
+                        <first_page>e0179359</first_page>
+                    </citation>
+                    <citation key="bib4">
+                        <volume_title>CRAN</volume_title>
+                        <author>Bartoń</author>
+                        <cYear>2017</cYear>
+                        <article_title>MuMIn: Multi-Model Inference</article_title>
+                        <unstructured_citation>Bartoń K. 2017. MuMIn: Multi-Model Inference. CRAN. R
+                            package version 1.40.0.
+                            https://CRAN.R-project.org/package=MuMIn.</unstructured_citation>
+                    </citation>
+                    <citation key="bib5">
+                        <journal_title>Trends in Ecology &amp; Evolution</journal_title>
+                        <author>Bolker</author>
+                        <volume>24</volume>
+                        <first_page>127</first_page>
+                        <cYear>2009</cYear>
+                        <article_title>Generalized linear mixed models: a practical guide for ecology and evolution</article_title>
+                        <doi>10.1016/j.tree.2008.10.008</doi>
+                    </citation>
+                    <citation key="bib6">
+                        <journal_title>The R Journal</journal_title>
+                        <author>Brooks</author>
+                        <volume>9</volume>
+                        <first_page>378</first_page>
+                        <cYear>2017</cYear>
+                        <article_title>glmmTMB Balances Speed and Flexibility Among Packages for Zero-inflated Generalized Linear Mixed Modeling</article_title>
+                    </citation>
+                    <citation key="bib7">
+                        <journal_title>Behavioral Ecology and Sociobiology</journal_title>
+                        <author>Burnham</author>
+                        <volume>65</volume>
+                        <first_page>23</first_page>
+                        <cYear>2011</cYear>
+                        <article_title>AIC model selection and multimodel inference in behavioral ecology: some background, observations, and comparisons</article_title>
+                        <doi>10.1007/s00265-010-1029-6</doi>
+                    </citation>
+                    <citation key="bib8">
+                        <volume_title>Comparative Physiology of Fasting, Starvation, and Food Limitation</volume_title>
+                        <author>Champagne</author>
+                        <cYear>2012</cYear>
+                    </citation>
+                    <citation key="bib9">
+                        <journal_title>Global Change Biology</journal_title>
+                        <author>Constable</author>
+                        <volume>20</volume>
+                        <first_page>3004</first_page>
+                        <cYear>2014</cYear>
+                        <article_title>Climate change and Southern Ocean ecosystems I: how changes in physical habitats directly affect marine biota</article_title>
+                        <doi>10.1111/gcb.12623</doi>
+                    </citation>
+                    <citation key="bib10">
+                        <journal_title>Trends in Parasitology</journal_title>
+                        <author>Cortés</author>
+                        <volume>33</volume>
+                        <first_page>678</first_page>
+                        <cYear>2017</cYear>
+                        <article_title>Th2 and Th1 responses: clear and hidden sides of immunity against intestinal helminths</article_title>
+                        <doi>10.1016/j.pt.2017.05.004</doi>
+                    </citation>
+                    <citation key="bib11">
+                        <journal_title>Aquatic Conservation: Marine and Freshwater Ecosystems</journal_title>
+                        <author>Costa</author>
+                        <volume>17</volume>
+                        <first_page>S44</first_page>
+                        <cYear>2008</cYear>
+                        <article_title>A conceptual model of the variation in parental attendance in response to environmental fluctuation: foraging energetics of lactating sea lions and fur seals</article_title>
+                        <doi>10.1002/aqc.917</doi>
+                    </citation>
+                    <citation key="bib12">
+                        <volume_title>The Effects of Noise on Aquatic Life</volume_title>
+                        <author>Costa</author>
+                        <cYear>2012</cYear>
+                        <doi>10.1007/978-1-4419-7311-5_96</doi>
+                    </citation>
+                    <citation key="bib13">
+                        <journal_title>PLOS Neglected Tropical Diseases</journal_title>
+                        <author>Diemert</author>
+                        <volume>11</volume>
+                        <cYear>2017</cYear>
+                        <article_title>Safety and immunogenicity of the Na-GST-1 hookworm vaccine in Brazilian and American adults</article_title>
+                        <doi>10.1371/journal.pntd.0005574</doi>
+                        <first_page>e0005574</first_page>
+                    </citation>
+                    <citation key="bib14">
+                        <journal_title>Journal of Zoology</journal_title>
+                        <author>Doidge</author>
+                        <volume>203</volume>
+                        <first_page>87</first_page>
+                        <cYear>1984</cYear>
+                        <article_title>Growth rates of antarctic fur seal arctocephalus gazella pups at south georgia</article_title>
+                        <doi>10.1111/j.1469-7998.1984.tb06045.x</doi>
+                    </citation>
+                    <citation key="bib15">
+                        <journal_title>Plos One</journal_title>
+                        <author>Elorriaga-Verplancken</author>
+                        <volume>11</volume>
+                        <cYear>2016</cYear>
+                        <article_title>Impact of the 2015 el niño-southern oscillation on the abundance and foraging habits of guadalupe fur seals and california sea lions from the san benito archipelago, mexico</article_title>
+                        <doi>10.1371/journal.pone.0155034</doi>
+                        <first_page>e0155034</first_page>
+                    </citation>
+                    <citation key="bib16">
+                        <journal_title>Marine Mammal Science</journal_title>
+                        <author>Francis</author>
+                        <volume>14</volume>
+                        <first_page>552</first_page>
+                        <cYear>1998</cYear>
+                        <article_title>A protracted foraging and attendance cycle in female juan fernandez fur seals</article_title>
+                        <doi>10.1111/j.1748-7692.1998.tb00742.x</doi>
+                    </citation>
+                    <citation key="bib17">
+                        <journal_title>Ciencias</journal_title>
+                        <author>García-aguilar</author>
+                        <volume>29</volume>
+                        <cYear>2003</cYear>
+                        <article_title>Cuidado materno en el lobo marino de California de Los Islotes, Golfo de California, México Maternal care in the California sea lion at Los Islotes, Gulf of California, Mexico.</article_title>
+                    </citation>
+                    <citation key="bib18">
+                        <journal_title>Ecology</journal_title>
+                        <author>Georges</author>
+                        <volume>81</volume>
+                        <first_page>295</first_page>
+                        <cYear>2000</cYear>
+                        <article_title>Maternal care in the subantarctic fur seals on amsterdam island</article_title>
+                        <doi>10.1890/0012-9658(2000)081[0295:MCITSF]2.0.CO;2</doi>
+                    </citation>
+                    <citation key="bib19">
+                        <journal_title>Journal of Evolutionary Biology</journal_title>
+                        <author>Grueber</author>
+                        <volume>24</volume>
+                        <first_page>699</first_page>
+                        <cYear>2011</cYear>
+                        <article_title>Multimodel inference in ecology and evolution: challenges and solutions</article_title>
+                        <doi>10.1111/j.1420-9101.2010.02210.x</doi>
+                    </citation>
+                    <citation key="bib20">
+                        <journal_title>EcoHealth</journal_title>
+                        <author>Gulland</author>
+                        <volume>4</volume>
+                        <first_page>135</first_page>
+                        <cYear>2007</cYear>
+                        <article_title>Is marine mammal health deteriorating? trends in the global reporting of marine mammal disease</article_title>
+                        <doi>10.1007/s10393-007-0097-1</doi>
+                    </citation>
+                    <citation key="bib21">
+                        <journal_title>Biodiversity and Conservation</journal_title>
+                        <author>Hobday</author>
+                        <volume>24</volume>
+                        <first_page>3449</first_page>
+                        <cYear>2015</cYear>
+                        <article_title>Prioritizing climate change adaptation options for iconic marine species</article_title>
+                        <doi>10.1007/s10531-015-1007-4</doi>
+                    </citation>
+                    <citation key="bib22">
+                        <journal_title>Vaccine</journal_title>
+                        <author>Hotez</author>
+                        <volume>34</volume>
+                        <first_page>3001</first_page>
+                        <cYear>2016</cYear>
+                        <article_title>Advancing a vaccine to prevent hookworm disease and anemia</article_title>
+                        <doi>10.1016/j.vaccine.2016.03.078</doi>
+                    </citation>
+                    <citation key="bib23">
+                        <journal_title>Clinical Microbiology Reviews</journal_title>
+                        <author>Ibrahim</author>
+                        <volume>30</volume>
+                        <first_page>919</first_page>
+                        <cYear>2017</cYear>
+                        <article_title>Impact of childhood malnutrition on host defense and infection</article_title>
+                        <doi>10.1128/CMR.00119-16</doi>
+                    </citation>
+                    <citation key="bib24">
+                        <journal_title>Plos One</journal_title>
+                        <author>Jeanniard-du-Dot</author>
+                        <volume>12</volume>
+                        <cYear>2017</cYear>
+                        <article_title>Reproductive success is energetically linked to foraging efficiency in Antarctic fur seals</article_title>
+                        <doi>10.1371/journal.pone.0174001</doi>
+                        <first_page>e0174001</first_page>
+                    </citation>
+                    <citation key="bib25">
+                        <journal_title>African Zoology</journal_title>
+                        <author>Kirkman</author>
+                        <volume>37</volume>
+                        <first_page>13</first_page>
+                        <cYear>2002</cYear>
+                        <article_title>Pup growth and maternal attendance patterns in Subantarctic fur seals</article_title>
+                        <doi>10.1080/15627020.2002.11657149</doi>
+                    </citation>
+                    <citation key="bib26">
+                        <journal_title>Ecology Letters</journal_title>
+                        <author>Lewandowska</author>
+                        <volume>17</volume>
+                        <first_page>614</first_page>
+                        <cYear>2014</cYear>
+                        <article_title>Effects of sea surface warming on marine plankton</article_title>
+                        <doi>10.1111/ele.12265</doi>
+                    </citation>
+                    <citation key="bib27">
+                        <journal_title>Clinical Microbiology Reviews</journal_title>
+                        <author>Loukas</author>
+                        <volume>14</volume>
+                        <first_page>689</first_page>
+                        <cYear>2001</cYear>
+                        <article_title>Immune responses in hookworm infections</article_title>
+                        <doi>10.1128/CMR.14.4.689-703.2001</doi>
+                    </citation>
+                    <citation key="bib28">
+                        <journal_title>Parasitology Research</journal_title>
+                        <author>Lyons</author>
+                        <volume>109</volume>
+                        <first_page>257</first_page>
+                        <cYear>2011</cYear>
+                        <article_title>Review of research on hookworms (Uncinaria lucasi Stiles, 1901) in northern fur seals (Callorhinus ursinus Linnaeus, 1758)</article_title>
+                        <doi>10.1007/s00436-011-2420-6</doi>
+                    </citation>
+                    <citation key="bib29">
+                        <journal_title>Parasitology Research</journal_title>
+                        <author>Lyons</author>
+                        <volume>109</volume>
+                        <first_page>581</first_page>
+                        <cYear>2011</cYear>
+                        <article_title>Investigations of peritoneal and intestinal infections of adult hookworms (Uncinaria spp.) in northern fur seal (Callorhinus ursinus) and California sea lion (Zalophus californianus) pups on San Miguel Island, California (2003)</article_title>
+                        <doi>10.1007/s00436-011-2289-4</doi>
+                    </citation>
+                    <citation key="bib30">
+                        <journal_title>Comparative Biochemistry and Physiology Part A: Molecular &amp; Integrative Physiology</journal_title>
+                        <author>Marcus</author>
+                        <volume>184</volume>
+                        <first_page>132</first_page>
+                        <cYear>2015</cYear>
+                        <article_title>Health assessment of free-ranging endangered Australian sea lion (Neophoca cinerea) pups: effect of haematophagous parasites on haematological parameters</article_title>
+                        <doi>10.1016/j.cbpa.2015.02.017</doi>
+                    </citation>
+                    <citation key="bib31">
+                        <journal_title>Physiological and Biochemical Zoology</journal_title>
+                        <author>McDonald</author>
+                        <volume>85</volume>
+                        <first_page>134</first_page>
+                        <cYear>2012</cYear>
+                        <article_title>Biological and environmental drivers of energy allocation in a dependent mammal, the Antarctic fur seal pup</article_title>
+                        <doi>10.1086/664948</doi>
+                    </citation>
+                    <citation key="bib32">
+                        <journal_title>Physiological and Biochemical Zoology</journal_title>
+                        <author>McDonald</author>
+                        <volume>85</volume>
+                        <first_page>243</first_page>
+                        <cYear>2012</cYear>
+                        <article_title>Dynamic influence of maternal and pup traits on maternal care during lactation in an income breeder, the antarctic fur seal</article_title>
+                        <doi>10.1086/665407</doi>
+                    </citation>
+                    <citation key="bib33">
+                        <journal_title>Metabolism</journal_title>
+                        <author>Mohammed</author>
+                        <volume>61</volume>
+                        <first_page>1211</first_page>
+                        <cYear>2012</cYear>
+                        <article_title>Elevated IgG levels against specific bacterial antigens in obese patients with diabetes and in mice with diet-induced obesity and glucose intolerance</article_title>
+                        <doi>10.1016/j.metabol.2012.02.007</doi>
+                    </citation>
+                    <citation key="bib34">
+                        <journal_title>Methods in Ecology and Evolution</journal_title>
+                        <author>Nakagawa</author>
+                        <volume>4</volume>
+                        <first_page>133</first_page>
+                        <cYear>2013</cYear>
+                        <article_title>A general and simple method for obtaining R2 from generalized linear mixed-effects models</article_title>
+                        <doi>10.1111/j.2041-210x.2012.00261.x</doi>
+                    </citation>
+                    <citation key="bib35">
+                        <journal_title>Journal of the Royal Society Interface</journal_title>
+                        <author>Nakagawa</author>
+                        <volume>14</volume>
+                        <first_page>20170213</first_page>
+                        <cYear>2017</cYear>
+                        <article_title>The coefficient of determination R 2 and intra-class correlation coefficient from generalized linear mixed-effects models revisited and expanded</article_title>
+                        <doi>10.1098/rsif.2017.0213</doi>
+                    </citation>
+                    <citation key="bib36">
+                        <journal_title>The Journal of Immunology</journal_title>
+                        <author>Ohnmacht</author>
+                        <volume>184</volume>
+                        <first_page>344</first_page>
+                        <cYear>2010</cYear>
+                        <article_title>Basophils protect against reinfection with hookworms independently of mast cells and memory Th2 cells</article_title>
+                        <doi>10.4049/jimmunol.0901841</doi>
+                    </citation>
+                    <citation key="bib37">
+                        <journal_title>Frontiers in Immunology</journal_title>
+                        <author>Palmer</author>
+                        <volume>6</volume>
+                        <first_page>1</first_page>
+                        <cYear>2015</cYear>
+                        <article_title>Glucose metabolism regulates T cell activation, differentiation, and functions</article_title>
+                        <doi>10.3389/fimmu.2015.00001</doi>
+                    </citation>
+                    <citation key="bib38">
+                        <journal_title>Clinical Infectious Diseases</journal_title>
+                        <author>Papier</author>
+                        <volume>59</volume>
+                        <first_page>234</first_page>
+                        <cYear>2014</cYear>
+                        <article_title>Childhood malnutrition and parasitic helminth interactions</article_title>
+                        <doi>10.1093/cid/ciu211</doi>
+                    </citation>
+                    <citation key="bib39">
+                        <journal_title>Revista De Biología Marina Y Oceanografía</journal_title>
+                        <author>Pavés</author>
+                        <volume>51</volume>
+                        <first_page>241</first_page>
+                        <cYear>2016</cYear>
+                        <article_title>Breeding season of the south american fur seal (arctocephalus australis, otariidae: carnivora): new data for establishing independent evolutionary histories?</article_title>
+                        <doi>10.4067/S0718-19572016000200003</doi>
+                    </citation>
+                    <citation key="bib40">
+                        <journal_title>R Foundation for Statistical Computing</journal_title>
+                        <author>R Core Development Team</author>
+                        <cYear>2017</cYear>
+                        <article_title>R: A language and environment for statistical computing</article_title>
+                    </citation>
+                    <citation key="bib41">
+                        <journal_title>Journal of Comparative Pathology</journal_title>
+                        <author>Seguel</author>
+                        <volume>145</volume>
+                        <first_page>308</first_page>
+                        <cYear>2011</cYear>
+                        <article_title>Pathological findings in South American fur seal pups (Arctocephalus australis gracilis) found dead at Guafo Island, Chile</article_title>
+                        <doi>10.1016/j.jcpa.2011.01.006</doi>
+                    </citation>
+                    <citation key="bib42">
+                        <journal_title>Marine Mammal Science</journal_title>
+                        <author>Seguel</author>
+                        <volume>29</volume>
+                        <first_page>36</first_page>
+                        <cYear>2013</cYear>
+                        <article_title>Causes of mortality in South American fur seal pups ( Arctophoca australis gracilis ) at Guafo Island, southern Chile (2004-2008)</article_title>
+                        <doi>10.1111/j.1748-7692.2011.00534.x</doi>
+                    </citation>
+                    <citation key="bib43">
+                        <journal_title>Journal of Wildlife Diseases</journal_title>
+                        <author>Seguel</author>
+                        <volume>52</volume>
+                        <first_page>663</first_page>
+                        <cYear>2016</cYear>
+                        <article_title>Hematology, serum chemistry, and early hematologic changes in free-ranging south american fur seals ( arctocephalus australis ) at guafo island, chilean patagonia</article_title>
+                        <doi>10.7589/2015-11-293</doi>
+                    </citation>
+                    <citation key="bib44">
+                        <journal_title>Veterinary Pathology</journal_title>
+                        <author>Seguel</author>
+                        <volume>54</volume>
+                        <first_page>288</first_page>
+                        <cYear>2017</cYear>
+                        <article_title>Hookworm Infection in South American Fur Seal ( Arctocephalus australis) Pups</article_title>
+                        <doi>10.1177/0300985816677151</doi>
+                    </citation>
+                    <citation key="bib45">
+                        <journal_title>International Journal for Parasitology: Parasites and Wildlife</journal_title>
+                        <author>Seguel</author>
+                        <volume>6</volume>
+                        <first_page>177</first_page>
+                        <cYear>2017</cYear>
+                        <article_title>The diversity and impact of hookworm infections in wildlife</article_title>
+                        <doi>10.1016/j.ijppaw.2017.03.007</doi>
+                    </citation>
+                    <citation key="bib46">
+                        <journal_title>International Journal for Parasitology: Parasites and Wildlife</journal_title>
+                        <author>Seguel</author>
+                        <volume>7</volume>
+                        <first_page>251</first_page>
+                        <cYear>2018</cYear>
+                        <article_title>The life history strategy of a fur seal hookworm in relation to pathogenicity and host health status</article_title>
+                        <doi>10.1016/j.ijppaw.2018.07.003</doi>
+                    </citation>
+                    <citation key="bib47">
+                        <journal_title>Marine Ecology Progress Series</journal_title>
+                        <author>Soto</author>
+                        <volume>312</volume>
+                        <first_page>277</first_page>
+                        <cYear>2006</cYear>
+                        <article_title>Changes in diet and maternal attendance of South American sea lions indicate changes in the marine environment and prey abundance</article_title>
+                        <doi>10.3354/meps312277</doi>
+                    </citation>
+                    <citation key="bib48">
+                        <journal_title>Journal of Wildlife Diseases</journal_title>
+                        <author>Spraker</author>
+                        <volume>43</volume>
+                        <first_page>179</first_page>
+                        <cYear>2007</cYear>
+                        <article_title>Hookworm enteritis with bacteremia in California sea lion pups on San Miguel Island</article_title>
+                        <doi>10.7589/0090-3558-43.2.179</doi>
+                    </citation>
+                    <citation key="bib49">
+                        <journal_title>Ecology</journal_title>
+                        <author>Stephens</author>
+                        <volume>90</volume>
+                        <first_page>2057</first_page>
+                        <cYear>2009</cYear>
+                        <article_title>Capital breeding and income breeding: their meaning, measurement, and worth</article_title>
+                        <doi>10.1890/08-1369.1</doi>
+                    </citation>
+                    <citation key="bib50">
+                        <journal_title>Revista De Etologia</journal_title>
+                        <author>Trecu</author>
+                        <volume>9</volume>
+                        <first_page>29</first_page>
+                        <cYear>2010</cYear>
+                        <article_title>Comportamiento maternal de Arctocephalus Australis, en Isla de Lobos - Uruguay</article_title>
+                    </citation>
+                    <citation key="bib51">
+                        <volume_title>Pinnipeds and El Niño, 1st Ed, Pinnipeds and El Nino, Ecological Studies</volume_title>
+                        <author>Trillmich</author>
+                        <cYear>1991</cYear>
+                        <doi>10.1007/978-3-642-76398-4</doi>
+                    </citation>
+                    <citation key="bib52">
+                        <journal_title>Royal Society Open Science</journal_title>
+                        <author>Vera-Massieu</author>
+                        <volume>2</volume>
+                        <first_page>150108</first_page>
+                        <cYear>2015</cYear>
+                        <article_title>Activation of an inflammatory response is context-dependent during early development of the California sea lion</article_title>
+                        <doi>10.1098/rsos.150108</doi>
+                    </citation>
+                    <citation key="bib53">
+                        <journal_title>American Journal of Physiology-Regulatory, Integrative and Comparative Physiology</journal_title>
+                        <author>Verrier</author>
+                        <volume>302</volume>
+                        <first_page>R929</first_page>
+                        <cYear>2012</cYear>
+                        <article_title>Hormonal responses to extreme fasting in subantarctic fur seal (Arctocephalus tropicalis) pups</article_title>
+                        <doi>10.1152/ajpregu.00370.2011</doi>
+                    </citation>
+                    <citation key="bib54">
+                        <journal_title>Ecology and Evolution</journal_title>
+                        <author>Watson</author>
+                        <volume>6</volume>
+                        <first_page>8695</first_page>
+                        <cYear>2016</cYear>
+                        <article_title>Cellular and humoral immunity in a wild mammal: Variation with age &amp; sex and association with overwinter survival</article_title>
+                        <doi>10.1002/ece3.2584</doi>
+                    </citation>
+                    <citation key="bib55">
+                        <journal_title>Parasites &amp; Vectors</journal_title>
+                        <author>Wei</author>
+                        <volume>9</volume>
+                        <first_page>518</first_page>
+                        <cYear>2016</cYear>
+                        <article_title>The hookworm Ancylostoma ceylanicum intestinal transcriptome provides a platform for selecting drug and vaccine candidates</article_title>
+                        <doi>10.1186/s13071-016-1795-8</doi>
+                    </citation>
+                    <citation key="bib56">
+                        <journal_title>Nature Climate Change</journal_title>
+                        <author>Wijffels</author>
+                        <volume>6</volume>
+                        <first_page>116</first_page>
+                        <cYear>2016</cYear>
+                        <article_title>Ocean temperatures chronicle the ongoing warming of Earth</article_title>
+                        <doi>10.1038/nclimate2924</doi>
+                    </citation>
+                    <citation key="bib57">
+                        <journal_title>Trends in Parasitology</journal_title>
+                        <author>Williamson</author>
+                        <volume>19</volume>
+                        <first_page>417</first_page>
+                        <cYear>2003</cYear>
+                        <article_title>Digestive proteases of blood-feeding nematodes</article_title>
+                        <doi>10.1016/S1471-4922(03)00189-2</doi>
+                    </citation>
+                </citation_list>
+                <component_list>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Abstract</title>
+                        </titles>
+                        <format mime_type="text/plain"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.001</doi>
+                            <resource>https://elifesciences.org/articles/38432#abstract</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>eLife digest</title>
+                        </titles>
+                        <format mime_type="text/plain"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.002</doi>
+                            <resource>https://elifesciences.org/articles/38432#digest</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 1. Hookworm infection dynamics and predictors of hookworm
+                                mortality in South American fur seal (Arctocephalus australis) pups
+                                at Guafo Island, southern Chile.</title>
+                            <subtitle>(A) Hookworm egg shedding patterns through infection stages.
+                                (B) Hookworm prevalence and mortality through different reproductive
+                                seasons (2005–08, 2012–17). (C–F) Predictors of hookworm mortality
+                                in generalized linear mixed models (GLMM) (2014, 2015, 2017) vs
+                                observed hookworm mortality. Higher hookworm burdens (GLMM,
+                                1.47 ± 0.56, Z = 2.61, p = 0.009), longer infectious periods (GLMM,
+                                0.17 ± 0.06, Z = 2.87, p = 0.004), and lower plasma concentrations
+                                of blood urea nitrogen (BUN) (GLMM, −0.45 ± 0.23, Z = −1.97,
+                                p = 0.049) and parasite-specific IgG (GLMM, −0.41 ± 0.17, Z = −2.45,
+                                p = 0.014) increased the probability of hookworm mortality. Raw data
+                                in: Figure 1—source data 1.</subtitle>
+                        </titles>
+                        <format mime_type="image/tiff"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.003</doi>
+                            <resource>https://elifesciences.org/articles/38432#fig1</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 1—source data 1. Predictors of hookworm-related mortality
+                                in South American fur seal pups.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.004</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#fig1sdata1</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 2. Changes in peripheral blood leukocytes and
+                                parasite-specific IgG antibodies during different phases of hookworm
+                                infection (Uncinaria sp.) in South American fur seal (Arctocephalus
+                                australis) pups (2017).</title>
+                            <subtitle>(A) Pups that die from hookworm disease have lower numbers of
+                                lymphocytes during the prepatent phase compared to controls and pups
+                                that survived (Generalized linear mixed model (GLMM), lymphocytes
+                                died = −0.52 ± 0.13, Z = −4.06, p = 4.92×10−5). Pups that survive
+                                hookworm infection have higher numbers of lymphocytes during the
+                                patent (B) (GLMM, lymphocytes survived = 0.80 ± 0.13, Z = 6.04,
+                                p = 1.54×10−9) and clearance (C) (GLMM, lymphocytes
+                                survived = 0.52 ± 0.12, Z = 4.30, p = 1.74×10−5) infection phases
+                                when compared to pups that died due to hookworm infection and/or age
+                                matched controls. (E–H) Pups that clear and survive hookworm
+                                infection have markedly higher numbers of basophils during the
+                                patent (GLMM, basophils survived = 7.46 ± 1.4, Z = 5.33,
+                                p = 1.0×10−7) and clearance (GLMM, basophils survived = 6.34 ± 0.9,
+                                Z = 7.07, p = 1.5×10−12) infection phases compared to controls and
+                                pups that died from hookworm infection. (I) Fur seal pups that clear
+                                hookworm infection produce parasite-specific IgG that binds the
+                                intestinal brush border of the fur seal hookworms (Uncinaria sp.)
+                                (arrow). (J–M) Fur seal pups that clear hookworm infection have
+                                higher levels of parasite-specific IgG during the prepatent (GLMM,
+                                IgG survived = 1.78 ± 0.36, Z = 4.86, p = 1.12×10−6), patent (GLMM,
+                                IgG survived = 2.27 ± 0.25, Z = 9.067, p = 2.0×10−16), clearance
+                                (GLMM, IgG survived = 1.80 ± 0.2, Z = 9.0, p = 2.0×10−16), and
+                                post-clearance (GLMM, IgG survived = 1.87 ± 0.25, Z = 7.3,
+                                p = 3.53×10−13) infection phases compared to controls and pups that
+                                died. Asterisk indicate groups are statistically different at
+                                alpha = 0.05. p-values code: *0.01 &lt; 0.05, **0.001 &lt; 0.01,
+                                *** &lt; 0.001. Raw data in: Figure 2—source data 1.</subtitle>
+                        </titles>
+                        <format mime_type="image/tiff"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.005</doi>
+                            <resource>https://elifesciences.org/articles/38432#fig2</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 2—source data 1. Maternal attendance and health-related
+                                parameters in pups with different hookworm infection status.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.006</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#fig2sdata1</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 3. Intestinal immune response in different groups of South
+                                American fur seals (Arctocephalus australis) infected with hookworms
+                                (Uncinaria sp.) and controls.</title>
+                            <subtitle>During the clearance process, fur seal pups recruit numerous
+                                T-lymphocytes (CD3 stain) in the jejunum mucosa (Generalized linear
+                                models with negative binomial distribution (GLM.NB),
+                                clearance = 0.86 ± 0.11, Z = 8.312, p = 2.0×10−16) and submucosa
+                                (GLM.NB, clearance = 1.08 ± 0.16, Z = 6.86, p = 7.0×10−12). Mast
+                                cells (C-kit stain) are found in higher numbers in the intestinal
+                                mucosa of pups undergoing clearance (GLM.NB,
+                                clearance = 1.14 ± 0.25, Z = 4.6, p = 4.2×10−6). The intestinal
+                                mucosa of pups clearing hookworm infection contains a large amount
+                                of mucus (GLM, clearance = 0.03 ± 0.003, Z = 7.84, p = 9.4×10−10).
+                                Pups that die from hookworm enteritis and bacteremia (HEB) have
+                                lower numbers or proportions of these immune components but higher
+                                numbers of macrophages (IBA1 stain) in the jejunum submucosa
+                                (GLM.NB, mortality = 0.52 ± 0.09, Z = 5.79, p = 6.94×10−9).
+                                Asterisks indicate groups are statistically different at
+                                alpha = 0.05. p-values code: *0.01 &lt; 0.05, ** &lt;0.01. GLM.NB.
+                                Raw data: Figure 3—source data 1.</subtitle>
+                        </titles>
+                        <format mime_type="image/tiff"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.007</doi>
+                            <resource>https://elifesciences.org/articles/38432#fig3</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 3—source data 1. Leukocyte subsets and IL-4
+                                immunohistochemical staining in intestine and mesenteric lymph
+                                node.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.008</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#fig3sdata1</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 4. Maternal attendance affects South American fur seal
+                                pup’s growth rate, energy balance, and immune response against
+                                hookworms.</title>
+                            <subtitle>(A) The observed number of nursing events against predicted
+                                values of growth rate. With more nursing events pups grow faster
+                                (GLM.NB, 0.031 ± 0.006, Z = 5.53, p = 3.2×10−8). (B) Pups that
+                                survived hookworm infection had higher levels of maternal attendance
+                                (more nursing events) (GLM.NB, 0.78 ± 0.23, Z = 3.45, p = 5.5×10−4),
+                                faster growth rate (GLM.NB, 1.05 ± 0.16, Z = 6.6, p = 2.7×10−11),
+                                and higher average levels of glucose (GLM, 3.0 ± 0.5, Z = 5.9,
+                                p = 1.02×10−7) compared to pups that died from hookworm disease;
+                                however, they had similar attendance and metabolic values compared
+                                to hookworm-free (control) pups (GLM.NB, 0.01 ± 0.13, Z = 0.13,
+                                p = 0.893, and GLM, 0.71 ± 0.38, t = 1.863, p = 0.066). (C) The
+                                observed values of number of nursing events, growth rate,
+                                interaction between nursing and growth rate and hookworm burden vs.
+                                the predicted values of CD3+ lymphocytes in section of skin in
+                                response to phytohemagglutinin (PHA) challenge. Pups with more
+                                nursing events (GLM.NB, 0.098 ± 0.02, Z = 4.39, p = 1.14×10−5),
+                                faster growth rate (GLM.NB, 0.04 ± 0.004, Z = 11.3, p = 2.0×10−16),
+                                and higher hookworm burden (GLM.NB, 0.009 ± 0.004, Z = 2.56,
+                                p = 0.01) had more recruitment of T-lymphocytes. (D) A subset of
+                                pups was divided into groups of low and high response to PHA
+                                challenge at 30 days old. Pups with higher CD3 lymphocyte response
+                                had higher average levels of parasite-specific IgG (GLM.NB,
+                                1.11 ± 0.33, Z = 3.37, p = 7.5×10−4), shorter infectious period
+                                (GLM.NB, −0.38 ± 0.12, Z = −3.06, p = 2.1×10−3), faster growth rate
+                                (GLM.NB, 0.68 ± 0.06, Z = 10.9, p = 2.0×10−16), and higher levels of
+                                maternal attendance (GLM.NB, 0.94 ± 0.13, Z = 7.04, p = 1.92×10−1).
+                                Hookworm burden was similar between the two groups (GLM.NB, low
+                                reactivity = −0.63 ± 0.37, Z = −1.67, p = 0.09). Raw data: Figure
+                                4—source data 1 and Figure 4—source data 2.</subtitle>
+                        </titles>
+                        <format mime_type="image/tiff"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.009</doi>
+                            <resource>https://elifesciences.org/articles/38432#fig4</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 4—source data 1. Phytohemagglutinin immune challenge in
+                                8-wk-old pups.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.010</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#fig4sdata1</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 4—source data 2. Phytohemagglutinin immune challenge in
+                                4-wk-old pups.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.011</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#fig4sdata2</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 5. South American fur seals foraging behavior and maternal
+                                care patterns differ between seasons.</title>
+                            <subtitle>(A) The level of maternal attendance decreases as foraging
+                                trips become longer (linear regression, R2 = 0.412,
+                                p = 0.016; dashed lines represent 95% confidence intervals). (B) In
+                                a year with sea surface temperature (SST) below the historic Guafo
+                                Island average (2007), fur seal females foraging trips are shorter
+                                when compared to the mean foraging trip duration during a year with
+                                SST temperature above the historical average (2017) (unpaired
+                                T-test, t = 5.133, df = 42, p &lt; 0.0001). Additionally, maternal
+                                attendance and pup growth rate in 2007 were higher than attendance
+                                and growth rates in 2017 (maternal attendance index: unpaired
+                                T-test, t = 2.060, df = 244, p = 0.04; growth rate: unpaired T-test,
+                                t = 2.85, df = 66, p = 0.0058). (C) Between 2012 and 2017 the mean
+                                values of glucose, cholesterol, parasite-specific IgG, peripheral
+                                blood lymphocytes and basophils followed an inverse pattern with
+                                mean SST at Guafo Island. In 2013, a year with low SST, pups had, on
+                                average, higher levels of glucose, cholesterol, parasite-specific
+                                IgG, lymphocytes and basophils when compared to the mean values of
+                                other reproductive seasons (Kruskal-Wallis with Dunn’s multiple
+                                comparison tests, Kruskal-Wallis statistic = 73.2–114.6, mean rank
+                                diff. = 63.98–203.8, p &lt; 0.0001–0.023). In 2014, with the highest
+                                mean SST over the last 15 y at Guafo Island, fur seal pups had the
+                                lowest mean values of these metabolic and immune parameters
+                                (Kruskal-Wallis with Dunn’s multiple comparison tests,
+                                Kruskal-Wallis statistic = 73.2–114.6, mean rank
+                                diff. = −230.83,–83.4, p &lt; 0.0001–0.017). (Asterisks indicate
+                                mean is significantly different from means of other seasons). Raw
+                                data in: Figure 5—source data 1 and Figure 5—source data
+                                2.</subtitle>
+                        </titles>
+                        <format mime_type="image/tiff"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.012</doi>
+                            <resource>https://elifesciences.org/articles/38432#fig5</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 5—source data 1. Maternal attendance and growth rates in
+                                2007 and 2017.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.013</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#fig5sdata1</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 5—source data 2. Immune and metabolic parameters in South
+                                American fur seal pups between 2012 and 2017.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.014</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#fig5sdata2</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 6. Correlation between oceanographic parameters (sea
+                                surface temperature and chlorophyll-a) and hookworm disease dynamics
+                                in South American fur seals (Arctocephalus australis) at the Chilean
+                                Patagonia (2005–08, 2012–17).</title>
+                            <subtitle>(A) Hookworm prevalence, burden, and mortality increase in
+                                years with warmer sea surface temperature (Linear regressions.
+                                Hookworm prevalence, Ad-R2 = 0.29, p = 0.064. Hookworm burden,
+                                Ad-R2 = 0.86, p &lt; 0.001. Hookworm mortality, Ad-R2 = 0.56,
+                                p = 0.016). Hookworm prevalence, burden, and mortality decrease in
+                                some years with higher primary productivity (Second order polynomial
+                                regressions. Hookworm prevalence, Ad-R2 = 0.46, p = 0.046. Hookworm
+                                burden, Ad-R2 = 0.29, p &lt; 0.123. Hookworm mortality,
+                                Ad-R2 = 0.70, p = 0.005). Dashed lines represent 95% confidence
+                                intervals. Raw data: Figure 6—source data 1 and Figure 6—source data
+                                2.</subtitle>
+                        </titles>
+                        <format mime_type="image/tiff"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.015</doi>
+                            <resource>https://elifesciences.org/articles/38432#fig6</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 6—source data 1. Sea surface temperature data for Guafo
+                                Island.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.016</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#fig6sdata1</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 6—source data 2. Hookworm prevalence, burden, and
+                                mortality in South American fur seal pups at Guafo Island.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.017</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#fig6sdata2</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Figure 7. Proposed mechanism of South American fur seal response
+                                to environmental change in the context of endemic hookworm
+                                infection.</title>
+                            <subtitle>Changes in sea surface temperature (SST) are associated with
+                                changes in foraging trip length and patterns of maternal attendance
+                                in fur seals. In years with lower SST, fur seal pups receive more
+                                diurnal maternal attendance compared to years with high SST. Pups
+                                with more maternal attendance have better energy balance, higher
+                                T-lymphocyte reactivity, and produce higher levels of
+                                parasite-specific IgG. Pups with this immune profile eliminate
+                                hookworms from the intestine faster than pups with less reactive
+                                immune systems. Early hookworm clearance is one of the most
+                                important factors that drive hookworm-related mortality, therefore
+                                in years with higher SST fur seal pups die more often of hookworm
+                                disease.</subtitle>
+                        </titles>
+                        <format mime_type="image/tiff"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.018</doi>
+                            <resource>https://elifesciences.org/articles/38432#fig7</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Supplementary file 1. Selected binomial generalized linear mixed
+                                models for hookworm mortality in South American fur seal
+                                (Arctocephalus australis) pups.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.019</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#supp1</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Supplementary file 2. Multimodel coefficient estimates, standard
+                                errors (SE), z and p values of predictors of hookworm mortality in
+                                South American fur seal pups.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.020</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#supp2</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Supplementary file 3. External factors affecting South American
+                                fur seal pup growth rate.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.021</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#supp3</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Supplementary file 4. Averaged coefficients, standard errors
+                                (SE), z and p values of top ranked models for pup’s growth shown in
+                                supplementary file 3.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.022</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#supp4</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Supplementary file 5. Negative binomial generalized linear models
+                                for CD3 lymphocyte response in South American fur seal pups infected
+                                with hookworms.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.023</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#supp5</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Supplementary file 6. Averaged coefficients, standard errors, z
+                                and p values of top ranked models for CD3 lymphocyteresponse shown
+                                in supplementary file 5.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.024</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#supp6</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Supplementary file 7. Negative binomial generalized linear mixed
+                                models for hookworm infectious period in South American fur seal
+                                pups.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.025</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#supp7</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Supplementary file 8. Averaged coefficients, standard errors, z
+                                and p values of predictors for hookworm infectious period based on
+                                the top ranked models shown in supplementary file 7.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.026</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#supp8</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Supplementary file 9. Hookworm prevalence, median hookworm
+                                burden, hookworm mortality, and mean concentration of chlorophyll-a
+                                and sea surface temperature (December) during 10 South American fur
+                                seal reproductive seasons at Guafo Island, Southern Chile.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.027</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#supp9</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Supplementary file 10. Regression models with hookworm
+                                prevalence, burden, or mortality as response and sea surface
+                                temperature as predictor.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.028</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#supp10</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Supplementary file 11. Regression models with hookworm
+                                prevalence, burden, or mortality as response and chlorophyll-a mean
+                                concentration as predictor.</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.029</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#supp11</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Supplementary file 12. Detail of sources, clone, retrieval
+                                methods, and dilution of primary antibodies used for
+                                immunohistochemistry</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.030</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#supp12</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Supplementary file 13. Data files inventory</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.031</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#supp13</resource>
+                        </doi_data>
+                    </component>
+                    <component parent_relation="isPartOf">
+                        <titles>
+                            <title>Transparent reporting form</title>
+                        </titles>
+                        <format mime_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+                        <doi_data>
+                            <doi>10.7554/eLife.38432.032</doi>
+                            <resource>https://elifesciences.org/articles/38432/figures#transrepform</resource>
+                        </doi_data>
+                    </component>
+<!-- Delete the decision letter and author response from the component list -->
+                </component_list>
+            </journal_article>
+        </journal>
+    </body>
+</doi_batch>
